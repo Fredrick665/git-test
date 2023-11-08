@@ -1,0 +1,25 @@
+body {
+    background-color: black;
+}
+header {
+    width: 1440px;
+    height: 608px;
+    text-align: center;
+    display: flex;
+    flex-direction: column;
+    justify-content: space-between;
+    background-color: #3de07e;
+}
+header h1 {
+    margin: auto;
+}
+header svg {align-self: flex-end;
+}
+.footer {
+}
+body {
+    background-color: black;
+    max-height: 3840px;
+    margin: 0;
+    padding: 0;
+}
